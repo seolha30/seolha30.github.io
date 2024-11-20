@@ -1,4 +1,4 @@
-<center><img src=https://gi.esmplus.com/hpholi3/tubelens/logomini.png></center>
+<img src=https://gi.esmplus.com/hpholi3/tubelens/logomini.png>
 # TubeLens (튜브렌즈) 
 
 YouTube 콘텐츠 분석 프로그램
