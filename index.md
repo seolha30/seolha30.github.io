@@ -17,7 +17,7 @@ TubeLens는 YouTube 콘텐츠 제작자를 위한 데이터 분석 도구입니�
 - 자막 및 댓글 분석
 
 ### 튜브렌즈 유튜브
-https://www.youtube.com/@튜브렌즈
+<a href="https://www.youtube.com/@튜브렌즈">https://www.youtube.com/@튜브렌즈
 
 ### 문의
 - 이메일: tubelens24@gmail.com
