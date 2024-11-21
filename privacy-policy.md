@@ -73,14 +73,14 @@ TubeLens는 사용자 데이터를 다음과 같이 제한적으로 처리합니
 - 라이센스 정보: 라이센스 만료 후 6개월까지 보관
 
 ## 7. YouTube API 서비스
-TubeLens는 YouTube API 서비스를 사용하며, Google Privacy Policy(https://www.google.com/policies/privacy)를 준수합니다.
+TubeLens는 YouTube API 서비스를 사용하며, <a href="https://www.google.com/policies/privacy">Google Privacy Policy</a>를 준수합니다.
 
 API 사용 범위:
 - youtube.readonly: 영상 정보 조회
 - youtube.force-ssl: 보안 연결 사용
 
 사용자 권한:
-- Google Security Settings(https://security.google.com/settings/security/permissions)에서 언제든지 접근 권한 해지 가능
+- <a href="https://security.google.com/settings/security/permissions">Google Security Settings</a>에서 언제든지 접근 권한 해지 가능
 - 권한 해지 시 관련 데이터 즉시 삭제
 
 ## 8. 사용자의 권리와 행사방법
@@ -96,5 +96,5 @@ API 사용 범위:
 ## 10. 개인정보처리방침 변경
 본 개인정보처리방침은 법령, 정책 또는 보안기술의 변경에 따라 내용의 추가, 삭제 및 수정이 있을 시 변경사항의 시행 7일 전부터 공지사항을 통해 고지할 것입니다.
 
-공고일자: 2024년 11월 19일
+공고일자: 2024년 11월 19일<br>
 시행일자: 2024년 11월 19일
